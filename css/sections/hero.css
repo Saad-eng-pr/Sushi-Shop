@@ -28,6 +28,7 @@
     line-height: 128px;
     color: #fff;
 }
+
 .hero-image__overlay {
     position: absolute;
     inset: 0;
@@ -56,6 +57,8 @@
     font-weight: 600;
     font-family: var(--playfair-display);
     color: var(--secondary-color);
+    padding-left: 30px;
+    line-height: 100px;
 }
 
 .hero-content-info p {
